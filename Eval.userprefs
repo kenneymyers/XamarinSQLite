@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C4FB7707-CA6E-4E03-AA19-B3A284DC3B39}|Default">
+  <MonoDevelop.Ide.ItemProperties.Eval.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0925AD4D-AD7F-4BD8-850D-3598CA09D40B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Eval.iOS>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Eval/Views/ContactsPage.xaml.cs">
+    <Files>
+      <File FileName="Eval/Interfaces/IFileHelper.cs" Line="7" Column="6" />
+      <File FileName="Eval/App.xaml.cs" Line="13" Column="10" />
+      <File FileName="iOS/FileHelper.cs" Line="15" Column="25" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Eval/Controllers/SQLiteController.cs" Line="37" Column="4" />
+      <File FileName="Eval/Models/ExampleModel.cs" Line="10" Column="22" />
+      <File FileName="Eval/Constants.cs" Line="10" Column="9" />
+      <File FileName="Eval/Views/ContactsPage.xaml" Line="9" Column="50" />
+      <File FileName="Eval/Views/ContactsPage.xaml.cs" Line="25" Column="52" />
+      <File FileName="Eval/obj/Debug/Eval.Views.ContactsPage.xaml.g.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Eval.Droid PreferredExecutionTarget="Android.Nexus_6_API_25" />
+</Properties>
